@@ -46,7 +46,11 @@
 - "Pure logic programming makes no use of mutable state"
 - "offers the tantalising promise of the ability to escape from the complexity problems caused by control"
 
-  <!-- Links -->
+### Accidents and Essence
+- "Essential Complexity is inherent in, and the essence of, the problem (as seen by the users)."
+- "Accidental Complexity (“something non-essential which is present”) is all the rest — complexity with which the development team would not have to deal in the ideal world (e.g. complexity arising from performance issues and from suboptimal language and infrastructure)."
+
+<!-- Links -->
 [Tarpit]: http://shaffner.us/cs/papers/tarpit.pdf
 [State]: https://en.wikipedia.org/wiki/State_(computer_science)
 [Value Objects]: https://en.wikipedia.org/wiki/Value_object
