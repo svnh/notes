@@ -53,27 +53,12 @@
 ### Recommended General Approach
 
 #### Ideal World
-- Informal requirements -> formal requirements: "Specifi-
-cally this means that in the ideal world, formalisation must be done with no
-view to execution whatsoever. The sole concern when producing the formal
-requirements must be to ensure that there is no relevant6 ambiguity in the
-informal requirements (i.e. that it has no omissions)."
-- "the next step is simply to execute these formal requirements
-directly on our underlying general purpose infrastructure"
-- "essence of declarative programming — i.e. that you need only
-specify what you require, not how it must be achieved"
+- Informal requirements -> formal requirements: "Specifically this means that in the ideal world, formalisation must be done with no view to execution whatsoever. The sole concern when producing the formal requirements must be to ensure that there is no relevant6 ambiguity in the informal requirements (i.e. that it has no omissions)."
+- "the next step is simply to execute these formal requirements directly on our underlying general purpose infrastructure"
+- "essence of declarative programming — i.e. that you need only specify what you require, not how it must be achieved"
 - State
-  - "All data will either be provided directly to the system (input) or derived.
-Additionally, derived data is either immutable (if the data is intended only
-for display) or mutable (if explicit reference is made within the requirements
-to the ability of users to update that data)... All data mentioned in the users’ informal requirements is of concern to
-the users, and is as such essential."
-  - "The fact that all such data is essential
-does not however mean that it will all unavoidably correspond to essential
-state. It may well be possible to avoid storing some such data, instead
-dealing with it in some other essential aspect of the system (such as the
-logic) — this is the case with derived data, as we shall see. In cases where
-this is possible the data corresponds to accidental state."
+  - "All data will either be provided directly to the system (input) or derived. Additionally, derived data is either immutable (if the data is intended only for display) or mutable (if explicit reference is made within the requirements to the ability of users to update that data)... All data mentioned in the users’ informal requirements is of concern to the users, and is as such essential."
+  - "The fact that all such data is essential does not however mean that it will all unavoidably correspond to essential state. It may well be possible to avoid storing some such data, instead dealing with it in some other essential aspect of the system (such as the logic) — this is the case with derived data, as we shall see. In cases where this is possible the data corresponds to accidental state."
  - Data:
 
 Data Essentiality | Data Type | Data Mutability | Classification
@@ -82,6 +67,9 @@ Essential | Input | - | Essential State
 Essential | Derived | Immutable | Accidental State
 Essential | Derived | Mutable | Accidental State
 Accidental | Derived | - | Accidental State
+
+- Control
+  - "The important thing is that we (as developers of the system) should not have to worry about the control flow in the system. Specifically the results of the system should be independent of the actual control mechanism which is finally used. These are precisely the lessons which logic programming teaches us, and because of this we would like to take the lead for our ideal approach to control from logic programming which shows that control can be separated completely."
 
 
 <!-- Links -->
