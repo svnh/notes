@@ -50,6 +50,40 @@
 - "Essential Complexity is inherent in, and the essence of, the problem (as seen by the users)."
 - "Accidental Complexity (“something non-essential which is present”) is all the rest — complexity with which the development team would not have to deal in the ideal world (e.g. complexity arising from performance issues and from suboptimal language and infrastructure)."
 
+### Recommended General Approach
+
+#### Ideal World
+- Informal requirements -> formal requirements: "Specifi-
+cally this means that in the ideal world, formalisation must be done with no
+view to execution whatsoever. The sole concern when producing the formal
+requirements must be to ensure that there is no relevant6 ambiguity in the
+informal requirements (i.e. that it has no omissions)."
+- "the next step is simply to execute these formal requirements
+directly on our underlying general purpose infrastructure"
+- "essence of declarative programming — i.e. that you need only
+specify what you require, not how it must be achieved"
+- State
+  - "All data will either be provided directly to the system (input) or derived.
+Additionally, derived data is either immutable (if the data is intended only
+for display) or mutable (if explicit reference is made within the requirements
+to the ability of users to update that data)... All data mentioned in the users’ informal requirements is of concern to
+the users, and is as such essential."
+  - "The fact that all such data is essential
+does not however mean that it will all unavoidably correspond to essential
+state. It may well be possible to avoid storing some such data, instead
+dealing with it in some other essential aspect of the system (such as the
+logic) — this is the case with derived data, as we shall see. In cases where
+this is possible the data corresponds to accidental state."
+ - Data:
+
+Data Essentiality | Data Type | Data Mutability | Classification
+--- | --- | --- | ---
+Essential | Input | - | Essential State
+Essential | Derived | Immutable | Accidental State
+Essential | Derived | Mutable | Accidental State
+Accidental | Derived | - | Accidental State
+
+
 <!-- Links -->
 [Tarpit]: http://shaffner.us/cs/papers/tarpit.pdf
 [State]: https://en.wikipedia.org/wiki/State_(computer_science)
