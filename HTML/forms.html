@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <title>Forms</title>
+    <!--  Used to collect information from visitors of a site -->
+    <!-- Form lifecycle:
+      1. User fills in form and hits submit
+      2. Input is sent to the server
+      3. Server processes information
+      4. Server responds with a new view for the user
+    -->
+  </head>
+  <body>
+  <!--   <div>Adding Text</div>
+    <div>Making Choices</div>
+    <div>Submitting</div>
+    <div>Uploading Files</div>
+   -->
+   <!-- `form` Attributes
+    `action`: the url for the page on the server that will receive the input on form submit
+    `method`: can be either `get` (input becomes query params) or `post` (input becomes headers), default to `get`
+    `id`: identify the form distinctly from other elements on the page
+    `size`: (deprecated, use CSS instead) used to specify the width of text input
+   -->
+   <form action="http://localhost:3000/exampleApi" method="get">
+    <!-- `input` Attributes
+      `type`: determines kind of input
+      `name`: name identifier of input value
+      `maxlength`: limit the number of characters in text field
+    -->
+
+    <label>Text: <input type="text" name="textInput" maxlength="5" required></label>
+    <br>
+    <label>Hidden Text Box: <input type="hidden" name="hiddenText" name="notseen" value="hide"/></label>
+    <br>
+    <label>Date: <input type="date" /></label>
+    <br>
+    <label>Password: <input type="password" name="passwordInput" maxlength="2"></label>
+    <label>Email: <input type="email" name="email" /></label>
+    <br>
+    <label>URL: <input type="url" name="url" /></label>
+    <br>
+    <label>Search: <input type="search" name="search" /></label>
+    <br>
+
+
+    <label for="textareaInput">Tell me something good</label>
+    <textarea name="textareaInput" id="textareaInput" placeholder="enter text here"></textarea>
+
+    <p>Pick your least favorite</p>
+    <label><input type="radio" name="goodies" value="cookies" />Cookies</label>
+    <label><input type="radio" name="goodies" value="brownies" checked="goodies" />Brownies</label>
+    <label><input type="radio" name="goodies" value="cake" />Cake</label>
+
+    <p>Pick your most favorite</p>
+    <label><input type="radio" name="seidoog" value="cookies" checked="seidoog" />Cookies</label>
+    <label><input type="radio" name="seidoog" value="brownies" />Brownies</label>
+    <label><input type="radio" name="seidoog" value="cake" />Cake</label>
+
+    <p>Pick all of your favorites</p>
+    <label><input type="checkbox" name="animals" value="kittens" checked="animals" />Kittens</label>
+    <label><input type="checkbox" name="animals" value="puppies" />Puppies</label>
+    <label><input type="checkbox" name="animals" value="gorillas" />Gorillas</label>
+
+    <fieldset>
+      <legend>Things that matter a lot</legend>
+      <p>Pick the prettiest</p>
+      <select name="colors">
+        <option value="pink">Pink</option>
+        <option value="purple" selected>Purple</option>
+        <option value="peony">Peony</option>
+      </select>
+
+      <p>Pick the most comfortable (you can select more than one option by holding down control
+         on a PC or command on a mac)</p>
+      <select name="clothing" multiple>
+        <option value="sweats">Sweats</option>
+        <option value="socks">Socks</option>
+        <option value="shoes">Shoes</option>
+        <option value="suit">Suit</option>
+      </select>
+    </fieldset>
+
+    <p>Upload your freshestremix mixtape</p>
+    <input type="file" name="mixtape">
+
+    <br>
+
+    <input type="submit" name="subscribe" value="Subscribe" />
+    <input type="image" src="images/redbutton.png" name="send" value="Send" />
+    <button>Buttons work tooooo</button>
+   </form>
+  </body>
+</html>
+
