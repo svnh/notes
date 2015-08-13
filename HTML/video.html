@@ -1,0 +1,36 @@
+<html>
+<head>
+  <title>Video</title>
+  <!--
+    Formats:
+      - browsers differ in what video formats they support
+    Players / Plugins:
+      - browsers were originally built to support only text and images
+      - browsers built before 2010 need a plugin to be installed
+      - players and plugins only support certain formats
+      - HTML5 video tag replaces players / plugins
+    Approach:
+      - to ensure most users can access video content, use HTML5 video element and flash
+      - use hosted services (Vimeo, Youtube)
+   -->
+</head>
+<body>
+  <!--
+    `poster`: shown while video is downloading
+    `preload`: tells browser what to do when the page loads:
+      - `none`: not load video until user presses play
+      - `auto`: download video when the page loads
+      - `metadata`: collect information like size, first frame, track list, duration
+  -->
+  <video src="video/puppy.mp4" poster="images/puppy.jpg" preload controls loop autoplay >
+    <p>A video of a puppy playing</p>
+  </video>
+
+  <video poster="images/puppy.jpg" preload controls loop autoplay >
+    <!-- MP4 must be first because of bug in iPad -->
+    <source src="video/puppy.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"' />
+    <source src="video/puppy.webm" type='video/webm;codecs="vp8, vorbis"' />
+    <p>A video of a puppy playing</p>
+  </video>
+</body>
+</html>
