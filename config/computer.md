@@ -17,6 +17,7 @@
 - [Sublime Text](https://www.sublimetext.com/)
 - [Chrome](https://www.google.com/chrome/browser/desktop/)
 - [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+- [XCode](https://developer.apple.com/xcode/)
 
 ### Dev env
 - [zsh](https://github.com/robbyrussell/oh-my-zsh#manual-installation)
