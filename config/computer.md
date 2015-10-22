@@ -7,16 +7,17 @@
 ### Apps
 - Set up native Messages
 - Set up native Contacts
-- [Clipmenu](http://www.clipmenu.com/)
-- [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US)
-- [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=en)
-- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)
 - [Spotify](https://www.spotify.com/us/download/mac/)
-- [Giphy for Chrome](https://chrome.google.com/webstore/detail/giphy-for-chrome/jlleokkdhkflpmghiioglgmnminbekdi?hl=en)
-- [Giphy for Gmail](https://chrome.google.com/webstore/detail/giphy-for-gmail/andgibkjiikabclfdkecpmdkfanpdapf/related?hl=en)
+- [Clipmenu](http://www.clipmenu.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Chrome](https://www.google.com/chrome/browser/desktop/)
+  - [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en-US)
+  - [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=en)
+  - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)
+  - [Giphy for Chrome](https://chrome.google.com/webstore/detail/giphy-for-chrome/jlleokkdhkflpmghiioglgmnminbekdi?hl=en)
+  - [Giphy for Gmail](https://chrome.google.com/webstore/detail/giphy-for-gmail/andgibkjiikabclfdkecpmdkfanpdapf/related?hl=en)
 - [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+- [Flux](https://justgetflux.com/)
 - [XCode](https://developer.apple.com/xcode/)
 
 ### Dev env
