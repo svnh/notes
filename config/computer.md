@@ -18,6 +18,7 @@
   - [Giphy for Gmail](https://chrome.google.com/webstore/detail/giphy-for-gmail/andgibkjiikabclfdkecpmdkfanpdapf/related?hl=en)
 - [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 - [Flux](https://justgetflux.com/)
+- [Slack](https://slack.com/apps)
 - [XCode](https://developer.apple.com/xcode/)
 
 ### Dev env
