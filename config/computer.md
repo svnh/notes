@@ -18,6 +18,7 @@
   - [Giphy for Gmail](https://chrome.google.com/webstore/detail/giphy-for-gmail/andgibkjiikabclfdkecpmdkfanpdapf/related?hl=en)
   - [Hold to Quit](http://lifehacker.com/5784153/how-to-bring-back-the-hold-q-to-quit-prompt-in-google-chrome)
 - [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+- [Gif Grabber](https://itunes.apple.com/us/app/gifgrabber/id668208984?mt=12) - always run in HD
 - [Flux](https://justgetflux.com/)
 - [Slack](https://slack.com/apps)
 - [XCode](https://developer.apple.com/xcode/)
