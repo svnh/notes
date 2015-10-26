@@ -6,6 +6,7 @@
 
 ### Apps
 - Set up native Messages
+  - [SMS Forwarding](http://www.gottabemobile.com/2014/10/21/how-to-sms-text-messages-os-x-yosemite/)
 - Set up native Contacts
 - [Spotify](https://www.spotify.com/us/download/mac/)
 - [Clipmenu](http://www.clipmenu.com/)
