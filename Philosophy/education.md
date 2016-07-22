@@ -9,13 +9,18 @@ What outcomes are essential?
 
 What is an instructor's role in the classroom?
 
+
 -- Frank
 Know your role in the classroom: guide, authority
+
 Understand your audience: what is motivating them, what is their general sentiment
 - use examples from their world to explain concepts to them
 - have insight into who they are and what they care about before they come to class
-Availability driven by genuine care
-Create opportunitites for internal intrinsic motivation
+
+Relationship with students: availability driven by genuine care
+
+Create opportunitites for students to feel internal intrinsic motivation
+
 
 -- Wisdoms
 
@@ -42,3 +47,74 @@ Actively seek out and listen to negative feedback - don't tell me what you like,
 Boil things down to the most fundamental truths. What are we sure is true? Reason up from there.
 Example: "someone says battery packs are expensive and that's how they will always be. no, that's dumb. if you apply that reasoning to anything new, nothing new happens. historically it's costed $600kw/h and it's not going to be much better than that in the future.
 What are the material constituants of the battery? What does each of them cost? Then you find that it's actually $80kw/h. All you have to do is take those materials and shape them into a battery.""
+
+Capitalize on feeling of learning
+
+Redefine success metrics
+
+
+-- EDIO July
+
+Responsive "organic" learning structures
+
+Teachers teach theory --> connecting the dots
+Robot teach skills
+
+People don't realize (?) and are afraid to admit that universities are flawed businesses
+
+Innovators (teachers) need space to innovate
+- The system doesn't allow failure and therefore stifles innovation
+
+I feel like there is so much we can do with our new model!
+The LMS - to track students effectively for more than their test scores
+No teachers - wahoo! Cheap wahoo!
+
+At the end of the day people just want proof
+
+Assumptions of current model:
+- You need teachers.
+- 8-4-4
+- 'Success' is correct.
+
+Redefinition of success metrics
+
+What parts of the current system do we need to work inside of?
+- theory is important - gives a bigger scope of the work that we are doing
+- unfortunately, need stupid certificates or some way to validate our work (perhaps need more time to prove the effectiveness of our course)
+- knowledge can't be replaced with skills --> need knowledge to drive the skills
+
+What structures need to exist for "safe" experimentation?
+
+You need humans if you don't have technology
+- How to maintain human element and get qualitative insights w/o teachers?
+
+
+
+Tools for new model:
+- Student dashboard accessible to parents/stakeholders (data-driven education)
+- Parents/teacher/curriculum involvement
+- Transparent, clear innovation on classroom/curriculum content/structure
+
+
+Innovative teacher groups:
+- https://teachersguild.org/about
+- http://www.stireducation.org/
+- http://teachforall.org/en
+- https://dignitasproject.org/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
