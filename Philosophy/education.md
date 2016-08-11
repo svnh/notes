@@ -1,4 +1,4 @@
--- Questions
+--- Questions
 
 What do our students care about: receiving, learning, in life?
 
@@ -10,7 +10,7 @@ What outcomes are essential?
 What is an instructor's role in the classroom?
 
 
--- Frank
+--- Frank
 Know your role in the classroom: guide, authority
 
 Understand your audience: what is motivating them, what is their general sentiment
@@ -22,8 +22,7 @@ Relationship with students: availability driven by genuine care
 Create opportunitites for students to feel internal intrinsic motivation
 
 
--- Wisdoms
-
+--- Wisdoms
 the most important skill a school can pass down to its students is the ability to motivate themselves
 
 Traditional education traps and boxes students, doesnt' allow them to do self learning. No freedom.
@@ -53,7 +52,7 @@ Capitalize on feeling of learning
 Redefine success metrics
 
 
--- EDIO July
+--- EDIO July (Nairobi)
 
 Responsive "organic" learning structures
 
@@ -103,18 +102,6 @@ Innovative teacher groups:
 - https://dignitasproject.org/
 
 
+--- Wikipedia clickhole
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Autodidacticism (also autodidactism) or self-education (also self-learning and self-teaching) is the act of learning about a subject or subjects in which one has had little to no formal education.
