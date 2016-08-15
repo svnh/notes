@@ -105,3 +105,15 @@ Innovative teacher groups:
 --- Wikipedia clickhole
 
 Autodidacticism (also autodidactism) or self-education (also self-learning and self-teaching) is the act of learning about a subject or subjects in which one has had little to no formal education.
+
+
+--- Finance
+
+Universities are a business
+College spending is currently a black box
+Financial decision making is best guided through business model approaches that prioritize data transparency
+Change is an ongoing purpose that must be purposeful
+These new network-aware practices include shared governance, but expand upon it to distribute leadership and decision making more broadly throughout the organization with the goal of improving performance.
+
+-
+https://www.acenet.edu/news-room/Documents/Evolving-Higher-Education-Business-Models.pdf
