@@ -117,3 +117,24 @@ These new network-aware practices include shared governance, but expand upon it 
 
 -
 https://www.acenet.edu/news-room/Documents/Evolving-Higher-Education-Business-Models.pdf
+
+
+--- Student Tracking
+-- HR
+
+What would you keep with the current student tracking system?
+- give and receive feedback to/from students
+- peer data, students rate each other: what percent do you think each person contributed
+- autonomy: take ownership of your own learning
+- junior/senior whiteboarding
+
+What do you want?
+- self reporting: people tell us when they're struggling
+- automated emails when students are failing via taser
+- collect data from employers and alumni about job search process, preparedness by curriculum
+- keep better pulse on industry demands
+
+What is not working?
+- whiteboarding curriculum: instead do live coding
+- feedback loop between job seekers and what happens day to day
+
