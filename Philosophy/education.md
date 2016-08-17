@@ -138,3 +138,8 @@ What is not working?
 - whiteboarding curriculum: instead do live coding
 - feedback loop between job seekers and what happens day to day
 
+Dimensions of effective student tracking:
+- Technical
+- Ability to build rapport in classroom
+- Accountability
+- Confidence
