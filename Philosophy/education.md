@@ -143,3 +143,8 @@ Dimensions of effective student tracking:
 - Ability to build rapport in classroom
 - Accountability
 - Confidence
+
+Who does what
+- Technical Mentor: grades assessments, 1:1 work with struggling students
+- Counselor: group checkins, 1:1 emotional support in escalations, students exiting program
+- Coordinator: daily ins and outs, pulse emotional and pairing informaiton, admin tasks
