@@ -148,3 +148,14 @@ Who does what
 - Technical Mentor: grades assessments, 1:1 work with struggling students
 - Counselor: group checkins, 1:1 emotional support in escalations, students exiting program
 - Coordinator: daily ins and outs, pulse emotional and pairing informaiton, admin tasks
+
+
+--- Workplace dynamics
+
+Millennials expect accelerated responsibility and paths to leadership. “They seek greater purpose in their work. And they want greater flexibility in how that work is done[14].” This is affecting power relationships in the workplace, compounded by the information asymmetry in technologies. 78% of millennials are rated as highly tech savvy versus just 4% of Boomers.
+
+We asked 136 Kenyan HR professionals the question “If you could help grow the staff in your company in a few key areas of personal competence, what would they be?” The results showed that their highest need is for staff to become more committed to the mission of the organisation and their part in it (See Table 1: average rating of 8.48, with a response count of 81). This finding indicates that training could be used to achieve organisational change objectives beyond that of skills development. High ratings were also given to Taking initiative (8.33), Owning responsibility for their jobs (8.28), and Handling stress and pressure better (8.21), all of which were rated substantially higher than Becoming more competent in their technical / functional area of expertise (7.01)
+
+-- Resources
+AMI_Training_Talent_Report_2016
+
