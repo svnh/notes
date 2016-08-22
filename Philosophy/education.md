@@ -154,7 +154,26 @@ Who does what
 
 Millennials expect accelerated responsibility and paths to leadership. “They seek greater purpose in their work. And they want greater flexibility in how that work is done[14].” This is affecting power relationships in the workplace, compounded by the information asymmetry in technologies. 78% of millennials are rated as highly tech savvy versus just 4% of Boomers.
 
-We asked 136 Kenyan HR professionals the question “If you could help grow the staff in your company in a few key areas of personal competence, what would they be?” The results showed that their highest need is for staff to become more committed to the mission of the organisation and their part in it (See Table 1: average rating of 8.48, with a response count of 81). This finding indicates that training could be used to achieve organisational change objectives beyond that of skills development. High ratings were also given to Taking initiative (8.33), Owning responsibility for their jobs (8.28), and Handling stress and pressure better (8.21), all of which were rated substantially higher than Becoming more competent in their technical / functional area of expertise (7.01)
+“If you could help grow the staff in your company in a few key areas of personal competence, what would they be?”
+- Become more committed to the mission of the organisation and their part in it (Average rating of 8.48)
+- Take initiative (8.33)
+- Own responsibility for their jobs (8.28)
+- Handle stress and pressure better (8.21)
+- All rated substantially higher than Becoming more competent in their technical / functional area of expertise (7.01)
+
+Skills to be reflected by managers:
+- Thinking less like a manager who needs to do everything and more like a leader who delegates and creates more empowerment and ownership in their teams.
+- Thinking Strategically – able to take a future perspective on the business (‘the big picture’), asess the business/industry to gain insight into key trends, assess possible risks/outcomes, and integrate all this into a roadmap for the organization (including the skills: business/industry assessment, risk assessment, prioritization, contingency planning).
+- Effective Communication – being able to distil communication into key messages that are easily understood, resonate with peoples’ values and inspire them.
+- Building a Performance Culture – encouraging people to be pro-active, transparent about issues/needing help, innovative, impact-focused, focused on quality (not just speed/quantity), efficient with their time, and handling challenges of fast growth and growing complexity.
+- Solution-focused mindset – root-cause problem-solving, breaking down complex/ambiguous problems, focusing on what’s important, experimenting and being willing to make mistakes .
+- Self-management – handling stress and emotional situations, role-modelling the right behaviours, giving/receiving feedback and creating a feedback culture, emotional intelligence.
+- Personal effectiveness – prioritizing the important (not just the urgent), time management skills, getting things done, delegating, project management, goal setting and action plans.
+
+Context is important when learning workplace skills
+Even more productive to embed learning in work (e.g. through performance support, checklists, FAQs); extract learning from work (e.g. through reflection, learning logs, work narration, blogging); and share learning with work colleagues (e.g. through ‘working out loud’, storytelling, team reviews).
+
+
 
 -- Resources
 AMI_Training_Talent_Report_2016
