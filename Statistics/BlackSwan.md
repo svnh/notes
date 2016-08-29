@@ -9,5 +9,6 @@ Whatever your enemy knows that you know is inconsequential.
 
 Misunderstaning of causal chains causes inpredictability
 
-The Platonic fold is the explosive boundary where the Platonic mindset enters in contact with messy reality, where the gap between what you know and what you think you know becomes dangerously wide. It is here that the Black Swan is produced.
+Platonicity: the desire to cut reality into crisp shapes. The Platonic fold is the explosive boundary where the Platonic mindset enters in contact with messy reality, where the gap between what you know and what you think you know becomes dangerously wide. It is here that the Black Swan is produced.
 
+Arbitrariness of categories, absurdity of clustering.
