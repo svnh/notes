@@ -1,4 +1,4 @@
-Dominance: Creating Focal Points In Your Design
+### Dominance: Creating Focal Points In Your Design
 
 When you create dominance in your work you are creating elements that command attention and prevail over other elements.
 
@@ -27,7 +27,39 @@ Visual weight can be added/removed to elements through a combination of:
 - Whitespace: Positive space weighs more than negative space or whitespace.
 
 
+### Flow
+
+Flow is the way your eye moves or is led through a composition.
+
+Two basic components
+1. Verbal Flow - the path taken when reading text on the page
+2. Visual Flow - the path taken when looking at images and graphics on the page
+
+Good Flow
+- Leads the eye, presenting information in the order you want it to be seen
+
+Text
+- Develop a consistent typographic style across your site – Be consistent with your use of font size, face, and color
+- Choose a font for your copy that is easy to read – Your copy is not the place for a fancy font
+- Remember the principle of proximity: place headings close to the text they refer to, captions close to images. Organize your text elements so it’s clear what goes with what
+- Watch the width of columns: don’t make columns to wide or too narrow as each hinders reading
+- Develop a vertical rhythm in your type: use consistent line heights and vertical margins and paddings
+
+Improve Visual Flow
+- Use the direction of images to control the the speed and direction of flow
+- Create barriers when you want to reverse the eyes direction
+- Create open paths to allow easy movement through your design
+- Use contrasting colors and shapes to pull the eye
+
+
+### Unity
+
+Unity is a measure of how well the elements on the page belong together. Through unity a viewer should first see the whole and then the sum of the parts making that whole.
+
+Creating unity is similar to branding. You first establish what the design will be about, what the brand will stand for, and with that in mind create elements or make public statements that reinforce the design or brand. Think consistency around a central message.
 
 
 -- Resources
 http://vanseodesign.com/web-design/dominance/
+http://vanseodesign.com/web-design/does-your-design-flow/
+http://vanseodesign.com/web-design/design-unity/
