@@ -35,3 +35,12 @@ Extremistan (subjected to what we call type 2 randomness): wealth, income, book 
 How can we figure out properties of the (infinite) unknown based on the (finite) known?
 
 From the standpoint of the turkey, the nonfeeding of the one thousand and first day is a Black Swan. For the butcher, it is not, since its occurrence is not unexpected. So you can see here that the Black Swan is a sucker's problem. In other words, it occurs relative to your expectation.
+
+Domain-specific: our reactions, our mode of thinking, our intuitions, depend on the context in which the matter is presented
+We react to a piece of information not on its logical merit, but on the basis of which framework surrounds it, and how it registers with our social-emotional system. Logical problems approached one way in the classroom might be treated differently in daily life
+
+You know what is wrong with a lot more confidence than you know what is right. All pieces of information are not equal in importance. Popper introduced the mechanism of conjectures and refutations, which works as follows: you formulate a (bold) conjecture and you start looking for the observation that would prove you wrong. This is the alternative to our search for confirmatory instances
+
+Once your mind is inhabited with a certain view of the world, you will tend to only consider instances proving you to be right. Paradoxically, the more information you have, the more justified you will feel in your views.
+
+
