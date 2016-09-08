@@ -173,8 +173,9 @@ Skills to be reflected by managers:
 Context is important when learning workplace skills
 Even more productive to embed learning in work (e.g. through performance support, checklists, FAQs); extract learning from work (e.g. through reflection, learning logs, work narration, blogging); and share learning with work colleagues (e.g. through ‘working out loud’, storytelling, team reviews).
 
+Adaptive learning: student gets a question wrong, teacher figures out where their knowledge failed and builds from that as a base
 
 
 -- Resources
 AMI_Training_Talent_Report_2016
-
+http://www.fastcompany.com/3026328/most-innovative-companies-2014/the-worlds-top-10-most-innovative-companies-in-education
