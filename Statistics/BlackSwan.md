@@ -42,3 +42,6 @@ We react to a piece of information not on its logical merit, but on the basis of
 You know what is wrong with a lot more confidence than you know what is right. All pieces of information are not equal in importance. Popper introduced the mechanism of conjectures and refutations, which works as follows: you formulate a (bold) conjecture and you start looking for the observation that would prove you wrong. This is the alternative to our search for confirmatory instances
 
 Once your mind is inhabited with a certain view of the world, you will tend to only consider instances proving you to be right. Paradoxically, the more information you have, the more justified you will feel in your views.
+
+We, members of the human variety of primates, have a hunger for rules because we need to reduce the dimension of matters so they can get into our heads. Or, rather, sadly, so we can squeeze them into our heads. The more random information is, the greater the dimensionality, and thus the more difficult to summarize. The more you summarize, the more order you put in, the less randomness. Hence the same condition that makes us simplify pushes us to think that the world is less random than it actually is.
+
