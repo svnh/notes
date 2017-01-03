@@ -20,6 +20,9 @@
   - [Rapportive](https://chrome.google.com/webstore/detail/rapportive/hihakjfhbmlmjdnnhegiciffjplmdhin)
   - [Hold to Quit](http://lifehacker.com/5784153/how-to-bring-back-the-hold-q-to-quit-prompt-in-google-chrome)
   - [LinkedIn in Gmail](https://chrome.google.com/webstore/detail/rapportive/hihakjfhbmlmjdnnhegiciffjplmdhin/related?hl=en)
+  - [Rappaportive](https://chrome.google.com/webstore/detail/rapportive/hihakjfhbmlmjdnnhegiciffjplmdhin?hl=en)
+  - [Boomerang for Gmail](https://chrome.google.com/webstore/detail/boomerang-for-gmail/mdanidgdpmkimeiiojknlnekblgmpdll?hl=en)
+  - [Hola](https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio?hl=en)
 - [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 - [Gif Grabber](https://itunes.apple.com/us/app/gifgrabber/id668208984?mt=12) - always run in HD
 - [Flux](https://justgetflux.com/)
